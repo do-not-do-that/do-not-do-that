@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=do-not-do-that&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=do-not-do-that&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=65)
 
 
 # 👩‍💻 Hello, 즐거운 do-not-do-that 입니다.

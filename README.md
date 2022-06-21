@@ -3,15 +3,44 @@
 
 # 👩‍💻 Hello, 즐거운 do-not-do-that 입니다.
 
+<br>
 새로운 것을 배우는 것을 좋아하고, 티는 안나지만 사람을 만나 대화를 하는 것도 좋아합니다.<br>
 낙천적이고 긍정적인 사람이라 대부분의 일상이 즐거운 상태입니다. 😎<br>
 부디 저에게 많은 것을 일깨워주시길 바랍니다.
+<br><br>
 
 * ## :file_cabinet: **Project** :file_cabinet:
+
   * [레스토랑 프랜차이즈 비즈니스 KPI(핵심 성과 지표) 데이터를 얻기 위한 서비스](https://github.com/do-not-do-that/02_BearRobotics_C)
   * [클릭 수, 광고 노출수 등의 광고 데이터를 정량적으로 제공하는 서비스](https://github.com/do-not-do-that/01_Madup_C)
   * [Django-CronTab을 이용한 배치프로세스, Open API를 통한 임상정보 조회&필터링 서비스](https://github.com/do-not-do-that/03_HumanScape_C)
   * [json 데이터 분석 후 task를 DAG 개념을 적용한 순서로 실행 후 csv 파일로 반환하는 서비스 ](https://github.com/do-not-do-that/04_MoaData_C)
+  * [제 3자 쿠키차단, 자바스크립트 실행 on/off, 팝업 차단 등의 기능이 포함된 구글 확장프로그램 K-Security 배포](https://chrome.google.com/webstore/detail/k-security/gcommmecfghaeoefdppanocimgijdmmi?hl=ko)
+
+<br>
+
+* ## :clipboard: **Experience** :clipboard:
+  * **2021.12 ~ 2022.02 Zetalux System / Solutaion Part**
+  <br>: 블루투스 기반 모바일 기기 탐지 솔루션 개발
+  
+  * **2020 정보보호 올림피아드 본선 웹 문제 출제 위원**
+  <br>: Cookie 변조 / Command Injection 문제 출제
+  <br>: 풀이 대상 Web 서버 개발&운영
+  
+  * **2020 정보보호 올림피아드 예선 웹 문제 출제 위원**
+  <br>: Iframe Injection, Blind SQL Injection 출제
+  <br>: 풀이 대상 Web 서버 개발&운영
+  
+  * **교내 정보보호동아리(Janus) 동아리 회장**
+  <br>: bWAPP를 이용한 HTML Injection 실습 강의
+  <br>: Cookie/Session/XSS 실습 강의
+  <br>: Lord of Sql 문제 풀이
+  <br>: 동아리 CTF 대회 기획 및 총괄 운영
+  
+  * **European Broadcasting Union(유럽 방송 연맹) Bug Bounty**
+  <br>: Reflected XSS 취약점 제보 - 명예의 전당 등록
+  
+<br><br>
 <h3 align="center">
     🛠 Tech Stack 🛠
 </h3>

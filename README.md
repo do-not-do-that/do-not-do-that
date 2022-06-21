@@ -15,6 +15,7 @@
   * [클릭 수, 광고 노출수 등의 광고 데이터를 정량적으로 제공하는 서비스](https://github.com/do-not-do-that/01_Madup_C)
   * [Django-CronTab을 이용한 배치프로세스, Open API를 통한 임상정보 조회&필터링 서비스](https://github.com/do-not-do-that/03_HumanScape_C)
   * [json 데이터 분석 후 task를 DAG 개념을 적용한 순서로 실행 후 csv 파일로 반환하는 서비스 ](https://github.com/do-not-do-that/04_MoaData_C)
+  * [목표 금액을 설정하고, 사용자는 설정된 1회 펀딩 금액만큼 펀딩할 수 있는 클라우드 서비스](https://chrome.google.com/webstore/detail/k-security/gcommmecfghaeoefdppanocimgijdmmi?hl=ko)
   * [제 3자 쿠키차단, 자바스크립트 실행 on/off, 팝업 차단 등의 기능이 포함된 구글 확장프로그램 K-Security 배포](https://chrome.google.com/webstore/detail/k-security/gcommmecfghaeoefdppanocimgijdmmi?hl=ko)
 
 <br>

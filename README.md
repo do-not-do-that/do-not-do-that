@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=do-not-do-that&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=65)
 
 
-# 👩‍💻 Hello, 즐거운 do-not-do-that 입니다.
+# 👩‍💻 Hello, 
+# 즐겁고 새로운 경험을 추구하는 do-not-do-that 입니다.
 
 <br>
 새로운 것을 배우는 것을 좋아하고, 티는 안나지만 사람을 만나 대화를 하는 것도 좋아합니다.<br>

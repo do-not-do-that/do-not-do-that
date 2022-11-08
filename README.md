@@ -85,7 +85,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-not-do-that&layout=compact&theme=github_dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-921%20Thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -106,19 +106,19 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               18 hrs 17 mins      ████████████████████░░░░░   82.87% 
-Python                   3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+TypeScript               15 hrs 43 mins      ██████████████████████░░░   87.91% 
+Python                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 에디터들: 
-VS Code                  22 hrs 4 mins       █████████████████████████   100.0%
+VS Code                  17 hrs 53 mins      █████████████████████████   100.0%
 
 💻 운영 체제들: 
-Mac                      22 hrs 4 mins       █████████████████████████   100.0%
+Mac                      17 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/11/2022 18:46:22 UTC
+ Last Updated on 08/11/2022 18:58:19 UTC
 <!--END_SECTION:waka-->
   

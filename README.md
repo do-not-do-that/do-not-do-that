@@ -22,6 +22,12 @@
 <br>
 
 * ## :clipboard: **Experience** :clipboard:
+  * **2022.07 ~ ing SoftBerry / Server Develop Part**
+  <br>: 전기차 충전소 플랫폼 'evinfra' 서버 개발
+  <br>: RDB -> Dynamo DB Migration 진행 중
+  <br>: 장애의 확산을 방지하기 위한 MSA(MicroService Architecture) 적용 진행 중
+  
+
   * **2021.12 ~ 2022.02 Zetalux System / Solutaion Part**
   <br>: 블루투스 기반 모바일 기기 탐지 솔루션 개발
   
